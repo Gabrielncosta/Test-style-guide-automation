@@ -1,0 +1,20 @@
+module.exports = {
+  product: {
+    condition: 'new',
+    currency: 'BRL',
+    brand: 'Loft',
+    model: 'IPHONE 4-4S',
+    category_id: '6686',
+    store_id: 599,
+    title: 'Case mr iphone 4 chocolate',
+    price: '29.9',
+    available_quantity: 0,
+    external_code: 'LCI134',
+    sku: 'LCI134',
+    gtin: '7908075306092',
+    short_description: '',
+    description: 'Case mr iphone 4 chocolate',
+    weight: 20,
+    provider: 'LINK_API',
+  },
+};

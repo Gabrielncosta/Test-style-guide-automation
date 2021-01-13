@@ -1,0 +1,28 @@
+{
+  "name": "PostgreSQLToDeliveryCenter",
+  "version": "1.0.0",
+  "description": "This glossary will be a quick guide for all technical terms inside our platform",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --watchAll --runInBand --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linkapi.solutions/nodejs-sdk": "^1.0.30"
+  },
+  "devDependencies": {
+    "eslint": "6.8.0",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-plugin-import": "2.20.1",
+    "jest": "25.1.0"
+  }
+}
